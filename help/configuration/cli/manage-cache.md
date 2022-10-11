@@ -9,7 +9,7 @@ description: Manage cache types and view cache status.
 
 ## Cache types
 
-Commerce 2 has the following cache types:
+Adobe Commerce has the following cache types:
 
 |Cache type "friendly" name|Cache type code name|Description|
 |--- |--- |--- |

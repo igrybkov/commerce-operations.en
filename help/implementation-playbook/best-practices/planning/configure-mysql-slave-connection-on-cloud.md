@@ -40,6 +40,6 @@ To enable the MySQL slave connection:
 - [MySQL high-load bottleneck in Adobe Commerce on cloud infrastructure](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/mysql-high-load-bottleneck-in-magento-commerce-cloud.html?lang=en)
 - [Database best practices for Adobe Commerce on cloud infrastructure](database-on-cloud.md)
 
->![NOTE]
+>[!NOTE]
 >
 >We are aware that this article may still contain industry-standard software terms that some may find racist, sexist, or oppressive and which may make the reader feel hurt, traumatized, or unwelcome. Adobe is working to remove these terms from our code, documentation, and user experiences.
